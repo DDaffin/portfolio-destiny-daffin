@@ -1,0 +1,9 @@
+/*
+Create page for each  project  
+
+or 
+
+Have this page render each project from  
+an object file that  contains all of the projects. 
+
+*/
